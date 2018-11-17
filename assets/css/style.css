@@ -1,0 +1,8 @@
+.cmb-type-group .cmb2-wrap > .cmb-field-list > .cmb-row.cmb-type-paragraph,
+.cmb2-postbox .cmb2-wrap > .cmb-field-list > .cmb-row.cmb-type-paragraph {
+	padding: 0px;
+	border-bottom:none;
+}
+.cmb2-wrap .cmb-row.cmb-type-paragraph:after {
+	clear:none;
+}

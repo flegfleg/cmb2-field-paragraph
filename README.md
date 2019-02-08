@@ -24,9 +24,9 @@ array(
     array(
       'name' => __( 'Paragraph', $plugin_slug ),
       'id' => $plugin_slug . '_location_calendar',
-      'text' => 'This is what appears',
+      'title' => 'This is the title',
+      'desc' => 'This is a paragraph.',
       'type' => 'paragraph',
-      'desc' => 'Used in Maps.',
     ),
   ),
 ),

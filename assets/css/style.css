@@ -6,3 +6,15 @@
 .cmb2-wrap .cmb-row.cmb-type-paragraph:after {
 	clear:none;
 }
+/* Hide left col (field name) */
+.cmb-row.cmb-type-paragraph .cmb-th {
+		display: none;
+	}
+.cmb-row.cmb-type-paragraph .cmb-td {
+		margin-left: 0 !important;
+		padding-left: 0 !important;
+	}
+.cmb-row.cmb-type-paragraph .cmb-td h4,
+.cmb-row.cmb-type-paragraph .cmb-td p {
+		margin: 0 !important;
+	}
